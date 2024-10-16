@@ -1,4 +1,4 @@
-##🌞 About me 🌞##
+🌞 About me 🌞
 - 👋 Hi, I’m @solmv
 - 👀 I’m interested in learning and work colaboration.
 - 🌱 I’m currently learning web development, JavaScript and Python.
