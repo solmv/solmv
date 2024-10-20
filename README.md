@@ -1,7 +1,7 @@
 # About me 🌞
 
 My birthname is Marisol, but I like being called **Sol** 🌞, I'm a biologist 🌱 but I'm interested in IT and programming ✨.
-I was first introduced into coding while working for my Marters degree, through software R, and I got really amazed about scripts and coding with python 🐍
+I was first introduced into coding while working for my masters degree, through software R, and I got really amazed about scripts and coding with python 🐍
 
 # Some facts and info 🌅
 
