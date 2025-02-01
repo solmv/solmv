@@ -2,6 +2,7 @@
 
 My birthname is Marisol, but I like being called **Sol** 🌞, I'm a biologist 🌱 but I'm interested in IT and programming ✨.
 I was first introduced into coding while working for my masters degree, through software R, and I got really amazed about scripts and coding with python 🐍
+Now i've learned Front-end development, so I have knowledge in HTML, CSS, JavaScript, and right now i'm learning React :mag_right: 
 
 # Some facts and info 🌅
 
